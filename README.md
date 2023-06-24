@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AP Psychology, AP English Language and Literature, AP English Language Language and Composition, AP Calculus BC, AP Statistics, AP Chemistry, AP Microeconomics and AP Macroeconomics.
 - I am also preparing my self-study endeavor in Python Developments.
 - 💞️ I’m looking to collaborate on Python-related developments.
-- 📫 How to reach me ...
+- 📫 You can reach me via E-mail: 
 
 <!---
 HSC631/HSC631 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
